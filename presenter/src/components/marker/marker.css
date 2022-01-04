@@ -1,0 +1,13 @@
+.marker {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+
+.circle {
+  height: 25px;
+  width: 25px;
+  background-color: rgb(255, 113, 113);
+  border-radius: 50%;
+  display: inline-block;
+}
