@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfWPw4+OT44h/feos27HHcJw8XyGZZg5Rw7KBb6TnxAXdRWqmwFdGDMjfrSuj4AwSKtTaMb4TYNPF6Z0K409CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alonz\\OneDrive\\Desktop\\projects\\CatanContained\\Server\\Creator\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alonz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alonz\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\alonz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
